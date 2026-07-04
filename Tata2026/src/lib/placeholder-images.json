@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "avatar-user",
+      "description": "Placeholder for user avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1710974481447-fb001ad9ad5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwZXJzb24lMjBmYWNlfGVufDB8fHx8MTc2MjE4ODQxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person face"
+    },
+    {
+      "id": "car-profile-1",
+      "description": "Placeholder for a car profile picture",
+      "imageUrl": "https://images.unsplash.com/photo-1592853625597-7d17be820d0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxtb2Rlcm4lMjBjYXJ8ZW58MHx8fHwxNzYyMDk4MjYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern car"
+    },
+    {
+      "id": "car-profile-2",
+      "description": "Placeholder for a second car profile picture",
+      "imageUrl": "https://images.unsplash.com/photo-1654159866298-e3c8ee93e43b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8U1VWJTIwY2FyfGVufDB8fHx8MTc2MjE5Nzc1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "SUV car"
+    },
+    {
+      "id": "car-profile-3",
+      "description": "Placeholder for a third car profile picture",
+      "imageUrl": "https://images.unsplash.com/photo-1607171028974-319ba56cb013?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxlbGVjdHJpYyUyMGNhcnxlbnwwfHx8fDE3NjIxNDQwMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "electric car"
+    },
+    {
+      "id": "car-profile-4",
+      "description": "Placeholder for a fourth car profile picture",
+      "imageUrl": "https://images.unsplash.com/photo-1621251910359-0d51f2249410?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBzZWRhbnxlbnwwfHx8fDE3NjIzNTc4OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "luxury sedan"
+    },
+    {
+      "id": "car-profile-5",
+      "description": "Placeholder for a fifth car profile picture",
+      "imageUrl": "https://images.unsplash.com/photo-1624413155376-c4d37535783a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb21wYWN0JTIwaGF0Y2hiYWNrfGVufDB8fHx8MTc2MjM1NzkxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "compact hatchback"
+    }
+  ]
+}
